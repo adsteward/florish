@@ -1,4 +1,10 @@
-Florish is a cross-platform mobile app. Florish provides an avenue for increased awareness of drinking levels through an interactive plant icon that reacts to user inputs. Florish is catered towards college students, who often binge drink and lose track of their Alcohol intake levels.
+## FLORISH
+Florish is a cross-platform mobile app built with Flutter & Dart where user's can track their drinking habits.
+
+Florish helps increase awareness of drinking levels through an interactive plant icon that reacts to user inputs. As the user has drinks and tracks them in Florish, the plant will grow sicker and the BAC shown will reflect the user's BAC. 
+
+
+<img src="IMG_4044.PNG" alt="screenshot-of-app" width="300"/>
 
 ### App Demo:
 You can watch the interactive demo of Florish at https://www.youtube.com/watch?v=TdGIYOcNGfA&feature=youtu.be.
